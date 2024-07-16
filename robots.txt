@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://riwaroth.github.io/sitemap
+Sitemap: https://riwaroth.github.io/app/sitemap
+Sitemap: https://riwaroth.github.io/assets/sitemap
+Sitemap: https://riwaroth.github.io/css/sitemap
+Sitemap: https://riwaroth.github.io/includes/sitemap
+Sitemap: https://riwaroth.github.io/item/sitemap
+Sitemap: https://riwaroth.github.io/src/sitemap
